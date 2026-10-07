@@ -7,13 +7,10 @@
 
 <br>
 
+<h1>BTC,LTC等多币种无损抽水，千分之一费率，请移步至HashCake：
+  https://github.com/hashultra/hashcake</h1>
 <h3>
-    超级稳定版！强烈推荐使用SSLminer：https://github.com/SSLminerProxy/SSLminer
-    
-    Telegram：<a href="https://t.me/SSLminerProxy">https://t.me/SSLminerProxy</a>
-    # QQ群：923469225
-
-
+    Telegram：<a href="https://t.me/cakehash">https://t.me/cakehash</a>
 </h3>
     
 
